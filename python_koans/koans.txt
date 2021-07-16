@@ -9,8 +9,8 @@ koans.about_dictionaries.AboutDictionaries
 koans.about_string_manipulation.AboutStringManipulation
 koans.about_tuples.AboutTuples
 koans.about_control_statements.AboutControlStatements
-koans.about_methods.AboutMethods
 koans.about_classes.AboutClasses
+koans.about_methods.AboutMethods
 koans.about_class_attributes.AboutClassAttributes
 koans.about_attribute_access.AboutAttributeAccess
 koans.about_method_bindings.AboutMethodBindings
