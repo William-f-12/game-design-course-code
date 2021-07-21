@@ -28,8 +28,9 @@ ball1 = Circle([40, 40], 30, (255, 0, 0))
 ball2 = Circle([300, 50], 40, (0, 0, 255))
 ball3 = Circle([30, 300], 20, (0, 255, 0))
 ball4 = Circle([300, 300], 20, (128, 0, 128))
-balls = [ball1, ball2, ball3, ball4]
-
+ball5 = Circle([100, 350], 25, (128, 128, 0))
+ball6 = Circle([50, 450], 20, (0, 128, 128))
+balls = [ball1, ball2, ball3, ball4, ball5, ball6]
 
 while True:
     DISPLAYSURF.fill((255, 255, 255))
