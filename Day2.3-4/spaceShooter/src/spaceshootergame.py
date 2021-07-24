@@ -275,7 +275,7 @@ def drawAsteroids(asteroids):
     for asteroid in asteroids:
         if asteroid != None:
             image, rect = asteroid.draw()
-            # pygame.draw.rect(DISPLAYSURF,DARKGRAY,rect)
+            # pygame.draw.rect(DISPLAYSURF,WHITE,rect)
             draw(image, rect)
 
 
